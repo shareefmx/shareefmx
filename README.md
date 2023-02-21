@@ -27,10 +27,7 @@
 <h3 align="left">Statistics in Github:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shareefmx&show_icons=true&locale=en&layout=compact" alt="shareefmx" /></p>
-
-
-
-
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shareefmx&show_icons=true&locale=en" alt="shareefmx" /></p>
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shareefmx&" alt="shareefmx" /></p>
