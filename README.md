@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shareefmx&label=Profile%20views&color=0e75b6&style=flat" alt="shareefmx" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shareef_mx" target="blank"><img src="https://img.shields.io/twitter/follow/shareef_mx?logo=twitter&style=for-the-badge" alt="shareef_mx" /></a> </p>
-
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **C, Android, Web development**
