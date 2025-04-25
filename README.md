@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/shareef_mx" target="blank"><img src="https://img.shields.io/twitter/follow/shareef_mx?logo=twitter&style=for-the-badge" alt="shareef_mx" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, React Native**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **C, Android, Web development**
 
