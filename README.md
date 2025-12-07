@@ -9,13 +9,13 @@
 
 ---
 
-### 🚀 About Me  
+### About Me  
 I'm a passionate **MERN Stack Developer** & **AI Automation Specialist** who loves building scalable applications, intelligent automation systems, and seamless user experiences.  
 I turn ideas into production-ready software using modern technologies, clean code practices, and AI-powered workflows.
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 ### **Frontend**
 `React.js` · `TypeScript` · `JavaScript (ES6+)` · `HTML5` · `CSS3` · `Tailwind CSS`
@@ -36,12 +36,6 @@ I turn ideas into production-ready software using modern technologies, clean cod
 
 ---
 
-
-## Soft Skills  
-`Problem Solving` · `Teamwork` · `Communication` ·  
-`Analysis` · `Documentation` · `Prompt Engineering`
-
----
 
 ## Connect With Me  
 - Portfolio: **https://shareef-mottath.vercel.app**  
